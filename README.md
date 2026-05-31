@@ -14,7 +14,7 @@
 ### Бизнес-анализ 
 1. [Анализ предметной области](docs/analysis-domain.pdf);
 2. [BPMN AS-IS](docs/bpmn_ai_is.pdf);
-3. [BPMN TO-BE](docs/bpmn_to_be.pdf;
+3. [BPMN TO-BE](docs/bpmn_to_be.pdf);
 4. Анализ стейкхолдеров проекта.
 
 ### Управление требованиями
