@@ -18,7 +18,7 @@
 4. [Анализ стейкхолдеров проекта](docs/stakeholder_analysis.pdf).
 
 ### Управление требованиями
-1. User Story Map;
+1. [User Story Map](docs/user_story_map) ;
 2. Функциональные требования;
 3. Нефункциональные требования.
 
