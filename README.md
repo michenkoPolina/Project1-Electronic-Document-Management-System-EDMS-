@@ -27,7 +27,10 @@
 2. [ER-модель БД](docs/er_diagram.pdf);
 3. [Архитектурная схема](docs/Architectural_scheme.pdf);
 4. [Структурная схема (диаграммы: развертывания, компонентов, классов)](docs/structural_scheme.pdf)
-5. Диаграмма деятельности. 
+5. [Диаграмма деятельности](docs/activity_diagram.pdf);
+6. [Диаграмма состояния](docs/status_diagram.pdf);
+7. [Диаграмма последовательности](docs/sequence_diagram.pdf);
+8. [Диаграмма кооперации](docs/cooperation_diagram.pdf).
 
 ### Прототипирование
 1. Wireframes;
