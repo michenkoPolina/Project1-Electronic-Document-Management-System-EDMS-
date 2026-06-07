@@ -19,8 +19,8 @@
 
 ### Управление требованиями
 1. [User Story Map](docs/user_story_map.pdf) ;
-2. Функциональные требования;
-3. Нефункциональные требования.
+2. [Функциональные требования](docs/functional_requirements.pdf);
+3. [Нефункциональные требования](docs/non-functional_requirements.pdf).
 
 ### Проектирование системы
 1. Use Case диаграмма;
